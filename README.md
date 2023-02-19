@@ -2,9 +2,11 @@
 
 ---
 
-- 🔭 I’m currently working on Elevar Commerce
-- 🌱 I’m currently learning Node.js, Vue.js and React
-- 💬 Ask me about JavaScript, TypeScript, HTML, CSS, Angular, AngularJS
+- 🔥 Software Developer - Full Stack
+- 💻 I’m currently working on Elevar Commerce
+- 👨‍💻 I’m learning Node.js, Vue.js and React
+- 💬 Ask me about JavaScript, TypeScript, HTML5, CSS3, Angular, AngularJS, Java
+- 🎓 Graduating in Computer Science
 - 📫 Contact: [LinkedIn](https://www.linkedin.com/in/ananias-caetano-935a8513b/) or "ananiascaetano.ifce@gmail.com"
 
 ##### Technologies I've worked on:
