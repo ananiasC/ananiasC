@@ -7,7 +7,7 @@
 - 👨‍💻 I’m learning Node.js, Vue.js and React
 - 💬 Ask me about JavaScript, TypeScript, HTML5, CSS3, Angular, AngularJS, Java
 - 🎓 Graduating in Computer Science
-- 📫 Contact: [LinkedIn](https://www.linkedin.com/in/ananias-caetano-935a8513b/) or "ananiascaetano.ifce@gmail.com"
+- 📫 More at [ananiasc.dev](https://ananiasc.dev)
 
 ##### Technologies I've worked on:
 
