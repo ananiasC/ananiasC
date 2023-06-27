@@ -4,8 +4,8 @@
 
 - 🔥 Software Developer - Full Stack
 - 💻 I’m currently working on Elevar Commerce
-- 👨‍💻 I’m learning Node.js, Vue.js and React
-- 💬 Ask me about JavaScript, TypeScript, HTML5, CSS3, Angular, AngularJS, Java
+- 👨‍💻 I’m learning Node.js and React
+- 💬 Ask me about JavaScript, TypeScript, Angular, Java
 - 🎓 Graduating in Computer Science
 - 📫 More at [ananiasc.dev](https://ananiasc.dev)
 
