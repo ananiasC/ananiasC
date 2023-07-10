@@ -6,8 +6,8 @@
 - 💻 Atualmente trabalho na Elevar Commerce, uma empresa que oferece plataforma de e-commerce e soluções para ajudar negócios a expandir e ter sucesso online.
 - 👨‍💻 Estou estudando React Js e me aprimorando em Node Js.
 - 💬 Front End - Trabalho com JavaScript e TypeScript utilizando os framework Angulars e Angular JS.
-- :muscle: Back End - Trabalho primariamente com Java e também com alguns micro serviços em Node Js
-- 🎓 Graduando em Ciência da Computação pelo IFCE, Campus Tianguá
+- :muscle: Back End - Trabalho primariamente com Java e também com alguns micro serviços em Node Js.
+- 🎓 Graduando em Ciência da Computação pelo IFCE, Campus Tianguá.
 - 📫 Para mais contatos: [ananiasc.dev](https://ananiasc.dev)
 
 ##### Tecnologias do meu dia a dia de trabalho:
