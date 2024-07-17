@@ -2,16 +2,17 @@
 
 ---
 
-- 🔥 Desenvolvedor de Softwares Full Stack.
+- 🔥 Desenvolvedor Full Stack Java/Angular.
 - 💻 Atualmente trabalho na Elevar Commerce, uma empresa que oferece plataforma de e-commerce e soluções para ajudar negócios a expandir e ter sucesso online.
-- 👨‍💻 Estou estudando React Js e me aprimorando em Node Js.
-- 💬 Front End - Trabalho com JavaScript e TypeScript utilizando os framework Angulars e Angular JS.
-- :muscle: Back End - Trabalho primariamente com Java e também com alguns micro serviços em Node Js.
-- 🎓 Graduando em Ciência da Computação pelo IFCE, Campus Tianguá.
-- 📫 Para mais contatos: [ananiasc.dev](https://ananiasc.dev)
+- :muscle: Back End - Trabalho primariamente com Java (Spring Framework e Spring Boot) e também com algumas APIs em Node Js.
+- 💬 Front End - Trabalho com JavaScript e TypeScript utilizando os frameworks Angular e Angular JS.
+- 👨‍💻 Estou me aprofundando em Spring Boot e para isso estou criando um backend de uma aplicação e-commerce direcionando meu conhecimento de mercado nele junto a boas práticas de desenvolvimento.
+- 🎓 Bacharel em Ciência da Computação pelo IFCE, Campus Tianguá (2023).
+- 🎓 Cursando especialização em Arquitetura de Software Distribuído.
+- 📫 Para mais contatos: [ananiascaetano.com.br](https://ananiascaetano.com.br)
 
 ##### Tecnologias do meu dia a dia de trabalho:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-gray) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![Java](https://img.shields.io/badge/Java-1.8-blue) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.x-green) ![NodeJS](https://img.shields.io/badge/-NodeJS-green)
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![AngularJs](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white) ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-11%2B-red) ![AngularJs](https://img.shields.io/badge/AngularJS-1.x-FF6347) ![SQL Server](https://img.shields.io/badge/MSSQL-13-orange)
