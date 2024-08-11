@@ -15,8 +15,7 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-gray) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![Java](https://img.shields.io/badge/Java-1.8-blue) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.x-green) ![NodeJS](https://img.shields.io/badge/-NodeJS-green)
 
-![Ananias GitHub stats](https://github-readme-stats.vercel.app/api?username=ananiasc&hide=contribs,prs&locale=pt-br&theme=blue-white)
+<!--![Ananias GitHub stats](https://github-readme-stats.vercel.app/api?username=ananiasc&hide=contribs,prs&locale=pt-br&theme=blue-white)-->
 
-[![Ananias top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananiasc&locale=pt-br&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--[![Ananias top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananiasc&locale=pt-br&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)-->
 ![Angular](https://img.shields.io/badge/Angular-11%2B-red) ![AngularJs](https://img.shields.io/badge/AngularJS-1.x-FF6347) ![SQL Server](https://img.shields.io/badge/MSSQL-13-orange)
