@@ -9,7 +9,8 @@
 - 👨‍💻 Estou me aprofundando em Spring Boot e para isso estou criando um backend de uma aplicação e-commerce direcionando meu conhecimento de mercado nele junto a boas práticas de desenvolvimento.
 - 🎓 Bacharel em Ciência da Computação pelo IFCE, Campus Tianguá (2023).
 - 🎓 Cursando especialização em Arquitetura de Software Distribuído.
-- 📫 Para mais contatos: [ananiascaetano.com.br](https://ananiascaetano.com.br)
+- 📫 Para mais contatos: [Links - ananiasc.dev](https://ananiasc.dev)
+- Portfólio: [ananiascaetano.com.br](https://ananiascaetano.com.br)
 
 ##### Tecnologias do meu dia a dia de trabalho:
 
