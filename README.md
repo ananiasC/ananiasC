@@ -11,6 +11,7 @@
 - 🎓 Cursando especialização em Arquitetura de Software Distribuído.
 - 📫 Para mais contatos: [Links - ananiasc.dev](https://ananiasc.dev)
 - Portfólio: [ananiascaetano.com.br](https://ananiascaetano.com.br)
+- GitLab: [ananiasac](https://gitlab.com/ananiasac)
 
 ##### Tecnologias do meu dia a dia de trabalho:
 
@@ -18,5 +19,7 @@
 ![Angular](https://img.shields.io/badge/Angular-11%2B-red) ![AngularJs](https://img.shields.io/badge/AngularJS-1.x-FF6347) ![SQL Server](https://img.shields.io/badge/MSSQL-13-orange)
 
 ![Ananias GitHub stats](https://github-readme-stats.vercel.app/api?username=ananiasc&hide=contribs,prs&locale=pt-br)
+
+![Ananias GitLab stats](https://gitlab-readme-stats-five.vercel.app/api?username=ananiasac&hide=["groups"])
 
 [![Ananias top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananiasc&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
