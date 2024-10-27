@@ -2,10 +2,10 @@
 
 ---
 
-- 🔥 Desenvolvedor Full Stack Java/Angular.
+- 🔥 Desenvolvedor Java.
 - 💻 Atualmente trabalho na VILT, uma empresa especializada em otimizar experiências do cliente e eficiência operacional em todos os setores do mundo.
 - :muscle: Back End - Trabalho primariamente com Java (Spring Framework e Spring Boot) e também com algumas APIs em Node Js.
-- 💬 Front End - Trabalho com JavaScript e TypeScript utilizando os frameworks Angular e Angular JS.
+- 💬 Front End - Já trabalhei com JavaScript e TypeScript utilizando os frameworks Angular e Angular JS.
 - 👨‍💻 Estou me aprofundando em Spring Boot e para isso estou criando um backend de uma aplicação e-commerce direcionando meu conhecimento de mercado nele junto a boas práticas de desenvolvimento.
 - 🎓 Bacharel em Ciência da Computação pelo IFCE, Campus Tianguá (2023).
 - 🎓 Cursando especialização em Arquitetura de Software Distribuído.
