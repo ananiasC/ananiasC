@@ -3,7 +3,7 @@
 ---
 
 - 🔥 Desenvolvedor Full Stack Java/Angular.
-- 💻 Atualmente trabalho na Elevar Commerce, uma empresa que oferece plataforma de e-commerce e soluções para ajudar negócios a expandir e ter sucesso online.
+- 💻 Atualmente trabalho na VILT, uma empresa especializada em otimizar experiências do cliente e eficiência operacional em todos os setores do mundo.
 - :muscle: Back End - Trabalho primariamente com Java (Spring Framework e Spring Boot) e também com algumas APIs em Node Js.
 - 💬 Front End - Trabalho com JavaScript e TypeScript utilizando os frameworks Angular e Angular JS.
 - 👨‍💻 Estou me aprofundando em Spring Boot e para isso estou criando um backend de uma aplicação e-commerce direcionando meu conhecimento de mercado nele junto a boas práticas de desenvolvimento.
